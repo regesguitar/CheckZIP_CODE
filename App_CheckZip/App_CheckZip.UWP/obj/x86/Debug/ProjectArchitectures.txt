@@ -1,1 +1,0 @@
-D:\estudo_pessoal\Xamarin\App_CheckZip\App_CheckZip.UWP\App_CheckZip.UWP.csproj;x86
